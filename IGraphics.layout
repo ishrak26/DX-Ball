@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="rendering.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="753" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="gameplay.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="level_design.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="perks.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="789" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="dxball.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29932" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="35" />
+			<Collapse line="40" />
+			<Collapse line="45" />
+			<Collapse line="47" />
+			<Collapse line="113" />
+			<Collapse line="118" />
+			<Collapse line="188" />
+			<Collapse line="193" />
+			<Collapse line="253" />
+			<Collapse line="330" />
+			<Collapse line="421" />
+			<Collapse line="446" />
+			<Collapse line="503" />
+			<Collapse line="517" />
+			<Collapse line="529" />
+			<Collapse line="602" />
+			<Collapse line="625" />
+			<Collapse line="633" />
+			<Collapse line="650" />
+			<Collapse line="710" />
+			<Collapse line="802" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

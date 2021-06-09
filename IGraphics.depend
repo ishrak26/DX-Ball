@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1563940332 source:e:\academics\1-1\cse 102\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1563940332 e:\academics\1-1\cse 102\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 e:\academics\1-1\cse 102\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 e:\academics\1-1\cse 102\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 source:e:\academics\1-1\cse 102\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563940332 e:\academics\1-1\cse 102\igraphics-master\opengl\include\gl.h
+
+1608237359 source:e:\academics\1-1\cse 102\term project\practice2\dxball.cpp
+	"iGraphics.h"
+	"level_design.h"
+	"perks.h"
+	"rendering.h"
+	"gameplay.h"
+
+1608232185 e:\academics\1-1\cse 102\term project\practice2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<ctype.h>
+	"glaux.h"
+
+1563940332 e:\academics\1-1\cse 102\term project\practice2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 e:\academics\1-1\cse 102\term project\practice2\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608236588 e:\academics\1-1\cse 102\term project\practice2\level_design.h
+	<stdio.h>
+
+1608237034 e:\academics\1-1\cse 102\term project\practice2\perks.h
+	<stdio.h>
+
+1608236928 e:\academics\1-1\cse 102\term project\practice2\rendering.h
+	<stdio.h>
+
+1608237571 e:\academics\1-1\cse 102\term project\practice2\gameplay.h
+	<stdio.h>
+

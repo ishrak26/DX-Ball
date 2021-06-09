@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1608420002 source:e:\academics\1-1\cse 102\term project\practice2\dxball.cpp
+	"iGraphics.h"
+	"level_design.h"
+	"perks.h"
+	"rendering.h"
+	"gameplay.h"
+
+1608282439 e:\academics\1-1\cse 102\term project\practice2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<ctype.h>
+	"glaux.h"
+
+1563940332 e:\academics\1-1\cse 102\term project\practice2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 e:\academics\1-1\cse 102\term project\practice2\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608314877 e:\academics\1-1\cse 102\term project\practice2\level_design.h
+	<stdio.h>
+
+1608415503 e:\academics\1-1\cse 102\term project\practice2\perks.h
+	<stdio.h>
+
+1608417267 e:\academics\1-1\cse 102\term project\practice2\rendering.h
+	<stdio.h>
+
+1608419982 e:\academics\1-1\cse 102\term project\practice2\gameplay.h
+	<stdio.h>
+
+1608422131 source:e:\academics\1-1\cse 102\term project\dxball\dxball.cpp
+	"iGraphics.h"
+	"level_design.h"
+	"perks.h"
+	"rendering.h"
+	"gameplay.h"
+
+1608282439 e:\academics\1-1\cse 102\term project\dxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<ctype.h>
+	"glaux.h"
+
+1563940332 e:\academics\1-1\cse 102\term project\dxball\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 e:\academics\1-1\cse 102\term project\dxball\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608314877 e:\academics\1-1\cse 102\term project\dxball\level_design.h
+	<stdio.h>
+
+1608415503 e:\academics\1-1\cse 102\term project\dxball\perks.h
+	<stdio.h>
+
+1608417267 e:\academics\1-1\cse 102\term project\dxball\rendering.h
+	<stdio.h>
+
+1608419982 e:\academics\1-1\cse 102\term project\dxball\gameplay.h
+	<stdio.h>
+
